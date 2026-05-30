@@ -1,0 +1,279 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ainsworth et~al.(2023)Ainsworth, Hayase, and
+  Srinivasa]{ainsworth2023git}
+Samuel Ainsworth, Jonathan Hayase, and Siddhartha Srinivasa.
+\newblock Git re-basin: Merging models modulo permutation symmetries.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+
+\bibitem[B{\'e}cigneul and Ganea(2019)]{becigneul2019riemannian}
+Gary B{\'e}cigneul and Octavian-Eugen Ganea.
+\newblock Riemannian adaptive optimization methods.
+\newblock In \emph{International Conference on Learning Representations}, 2019.
+
+\bibitem[Biderman et~al.(2023)Biderman, Schoelkopf, Anthony, Bradley, O'Brien,
+  Hallahan, Khan, Purohit, Prashanth, Raff, et~al.]{biderman2023pythia}
+Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle
+  O'Brien, Eric Hallahan, Mohammad~Aflah Khan, Shivanshu Purohit, USVSN~Sai
+  Prashanth, Edward Raff, et~al.
+\newblock {Pythia}: A suite for analyzing large language models across training
+  and scaling.
+\newblock \emph{arXiv preprint arXiv:2304.01373}, 2023.
+
+\bibitem[Bricken et~al.(2023)Bricken, Templeton, Batson, Chen, Jermyn, Conerly,
+  Turner, Anil, Denison, Askell, et~al.]{bricken2023monosemanticity}
+Trenton Bricken, Adly Templeton, Joshua Batson, Brian Chen, Adam Jermyn, Tom
+  Conerly, Nicholas Turner, Cem Anil, Carson Denison, Amanda Askell, et~al.
+\newblock Towards monosemanticity: Decomposing language models with dictionary
+  learning.
+\newblock \emph{Transformer Circuits Thread}, 2023.
+\newblock URL
+  \url{https://transformer-circuits.pub/2023/monosemantic-features/index.html}.
+
+\bibitem[Chen et~al.(2025)Chen, Merullo, Pavlick, and
+  Stolfo]{chen2025stitching}
+Alan Chen, Jack Merullo, Ellie Pavlick, and Alessandro Stolfo.
+\newblock Transferring linear features across language models with model
+  stitching.
+\newblock \emph{arXiv preprint arXiv:2506.06609}, 2025.
+
+\bibitem[Conmy et~al.(2023)Conmy, Mavor-Parker, Lynch, Heimersheim, and
+  Garriga-Alonso]{conmy2023acdc}
+Arthur Conmy, Augustine Mavor-Parker, Aengus Lynch, Stefan Heimersheim, and
+  Adri{\`a} Garriga-Alonso.
+\newblock Towards automated circuit discovery for mechanistic interpretability.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2023.
+
+\bibitem[Cunningham et~al.(2024)Cunningham, Ewart, Riggs, Huben, and
+  Sharkey]{cunningham2023sparse}
+Hoagy Cunningham, Aidan Ewart, Logan Riggs, Robert Huben, and Lee Sharkey.
+\newblock Sparse autoencoders find highly interpretable features in language
+  models.
+\newblock In \emph{International Conference on Learning Representations}, 2024.
+
+\bibitem[Dunefsky et~al.(2024)Dunefsky, Chlenski, and
+  Nanda]{dunefsky2024transcoders}
+Jacob Dunefsky, Philippe Chlenski, and Neel Nanda.
+\newblock Transcoders find interpretable {LLM} feature circuits.
+\newblock \emph{arXiv preprint arXiv:2406.11944}, 2024.
+
+\bibitem[Elhage et~al.(2021)Elhage, Nanda, Olsson, Henighan, Joseph, Mann,
+  Askell, Bai, Chen, Conerly, et~al.]{elhage2021mathematical}
+Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben
+  Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, et~al.
+\newblock A mathematical framework for transformer circuits.
+\newblock \emph{Transformer Circuits Thread}, 2021.
+\newblock URL \url{https://transformer-circuits.pub/2021/framework/index.html}.
+
+\bibitem[Entezari et~al.(2022)Entezari, Sedghi, Saukh, and
+  Neyshabur]{entezari2022role}
+Rahim Entezari, Hanie Sedghi, Olga Saukh, and Behnam Neyshabur.
+\newblock The role of permutation invariance in linear mode connectivity of
+  neural networks.
+\newblock In \emph{International Conference on Learning Representations}, 2022.
+
+\bibitem[Gao et~al.(2020)Gao, Biderman, Black, Golding, Hoppe, Foster, Phang,
+  He, Thite, Nabeshima, et~al.]{gao2020pile}
+Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles
+  Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, et~al.
+\newblock The {Pile}: An 800{GB} dataset of diverse text for language modeling.
+\newblock \emph{arXiv preprint arXiv:2101.00027}, 2020.
+
+\bibitem[Goldowsky-Dill et~al.(2023)Goldowsky-Dill, MacLeod, Sato, and
+  Arora]{goldowskydill2023localizing}
+Nicholas Goldowsky-Dill, Chris MacLeod, Lucas Sato, and Aryaman Arora.
+\newblock Localizing model behavior with path patching.
+\newblock \emph{arXiv preprint arXiv:2304.05969}, 2023.
+
+\bibitem[Hewitt and Liang(2019)]{hewitt2019designing}
+John Hewitt and Percy Liang.
+\newblock Designing and interpreting probes with control tasks.
+\newblock In \emph{EMNLP-IJCNLP}, 2019.
+
+\bibitem[Kissane et~al.(2024)Kissane, Krzyzanowski, Conmy, and
+  Nanda]{kissane2024transfer}
+Connor Kissane, Robert Krzyzanowski, Arthur Conmy, and Neel Nanda.
+\newblock {SAEs} (usually) transfer between base and chat models.
+\newblock Alignment Forum, 2024.
+\newblock
+  \url{https://www.alignmentforum.org/posts/fmwk6qxrpW8d4jvbd/saes-usually-transfer-between-base-and-chat-models}.
+
+\bibitem[Kornblith et~al.(2019)Kornblith, Norouzi, Lee, and
+  Hinton]{kornblith2019similarity}
+Simon Kornblith, Mohammad Norouzi, Honglak Lee, and Geoffrey Hinton.
+\newblock Similarity of neural network representations revisited.
+\newblock In \emph{International Conference on Machine Learning}, 2019.
+
+\bibitem[Kram{\'a}r et~al.(2024)Kram{\'a}r, Lieberum, Shah, and
+  Nanda]{kramar2024atp}
+J{\'a}nos Kram{\'a}r, Tom Lieberum, Rohin Shah, and Neel Nanda.
+\newblock {AtP*}: An efficient and scalable method for localizing {LLM}
+  behaviour to components.
+\newblock \emph{arXiv preprint arXiv:2403.00745}, 2024.
+
+\bibitem[Lan et~al.(2024)Lan, Torr, Meek, Khakzar, Krueger, and
+  Barez]{lan2024sparse}
+Michael Lan, Philip Torr, Austin Meek, Ashkan Khakzar, David Krueger, and Fazl
+  Barez.
+\newblock Sparse autoencoders reveal universal feature spaces across large
+  language models.
+\newblock \emph{arXiv preprint arXiv:2410.06981}, 2024.
+
+\bibitem[Lieberum et~al.(2024)Lieberum, Rajamanoharan, Conmy, Smith, Sonnerat,
+  Varma, Kram{\'a}r, Dragan, Shah, and Nanda]{lieberum2024gemma}
+Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas
+  Sonnerat, Vikrant Varma, J{\'a}nos Kram{\'a}r, Anca Dragan, Rohin Shah, and
+  Neel Nanda.
+\newblock {Gemma Scope}: Open sparse autoencoders everywhere all at once on
+  {Gemma} 2.
+\newblock \emph{arXiv preprint arXiv:2408.05147}, 2024.
+
+\bibitem[Lindner et~al.(2023)Lindner, Kram{\'a}r, Farquhar, Rauh, McGrath, and
+  Mikulik]{lindner2023tracr}
+David Lindner, J{\'a}nos Kram{\'a}r, Sebastian Farquhar, Matthew Rauh, Thomas
+  McGrath, and Vladimir Mikulik.
+\newblock Tracr: Compiled transformers as a laboratory for interpretability.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2023.
+
+\bibitem[Marks et~al.(2024)Marks, Rager, Michaud, Belinkov, Bau, and
+  Mueller]{marks2024sparse}
+Samuel Marks, Can Rager, Eric~J Michaud, Yonatan Belinkov, David Bau, and Aaron
+  Mueller.
+\newblock Sparse feature circuits: Discovering and editing interpretable causal
+  graphs in language models.
+\newblock \emph{arXiv preprint arXiv:2403.19647}, 2024.
+
+\bibitem[Meng et~al.(2022)Meng, Bau, Andonian, and Belinkov]{meng2022rome}
+Kevin Meng, David Bau, Alex Andonian, and Yonatan Belinkov.
+\newblock Locating and editing factual associations in {GPT}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
+
+\bibitem[Meng et~al.(2023)Meng, Sharma, Andonian, Belinkov, and
+  Bau]{meng2023memit}
+Kevin Meng, Arnab~Sen Sharma, Alex Andonian, Yonatan Belinkov, and David Bau.
+\newblock Mass-editing memory in a transformer.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+
+\bibitem[Mezzadri(2007)]{mezzadri2007haar}
+Francesco Mezzadri.
+\newblock How to generate random matrices from the classical compact groups.
+\newblock \emph{Notices of the AMS}, 54\penalty0 (5):\penalty0 592--604, 2007.
+
+\bibitem[Nanda(2023)]{nanda2023attribution}
+Neel Nanda.
+\newblock Attribution patching: Activation patching at industrial scale.
+\newblock
+  \url{https://www.neelnanda.io/mechanistic-interpretability/attribution-patching},
+  2023.
+
+\bibitem[Nanda et~al.(2023)Nanda, Chan, Lieberum, Smith, and
+  Steinhardt]{nanda2023progress}
+Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, and Jacob Steinhardt.
+\newblock Progress measures for grokking via mechanistic interpretability.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+
+\bibitem[Olah et~al.(2020)Olah, Cammarata, Schubert, Goh, Petrov, and
+  Carter]{olah2020zoom}
+Chris Olah, Nick Cammarata, Ludwig Schubert, Gabriel Goh, Michael Petrov, and
+  Shan Carter.
+\newblock Zoom in: An introduction to circuits.
+\newblock \emph{Distill}, 2020.
+\newblock \doi{10.23915/distill.00024.001}.
+\newblock \url{https://distill.pub/2020/circuits/zoom-in/}.
+
+\bibitem[Olsson et~al.(2022)Olsson, Elhage, Nanda, Joseph, DasSarma, Henighan,
+  Mann, Askell, Bai, Chen, et~al.]{olsson2022incontext}
+Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma,
+  Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, et~al.
+\newblock In-context learning and induction heads.
+\newblock \emph{Transformer Circuits Thread}, 2022.
+
+\bibitem[Park et~al.(2024)Park, Choe, and Veitch]{park2024linear}
+Kiho Park, Yo~Joong Choe, and Victor Veitch.
+\newblock The linear representation hypothesis and the geometry of large
+  language models.
+\newblock In \emph{International Conference on Machine Learning}, 2024.
+
+\bibitem[Press et~al.(2022)Press, Smith, and Lewis]{press2022alibi}
+Ofir Press, Noah Smith, and Mike Lewis.
+\newblock Train short, test long: Attention with linear biases enables input
+  length extrapolation.
+\newblock In \emph{International Conference on Learning Representations}, 2022.
+
+\bibitem[Singh and Jaggi(2020)]{singh2020fusion}
+Sidak~Pal Singh and Martin Jaggi.
+\newblock Model fusion via optimal transport.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2020.
+
+\bibitem[Su et~al.(2021)Su, Lu, Pan, Murtadha, Wen, and Liu]{su2021roformer}
+Jianlin Su, Yu~Lu, Shengfeng Pan, Ahmed Murtadha, Bo~Wen, and Yunfeng Liu.
+\newblock {RoFormer}: Enhanced transformer with rotary position embedding.
+\newblock \emph{arXiv preprint arXiv:2104.09864}, 2021.
+
+\bibitem[Sundararajan et~al.(2017)Sundararajan, Taly, and
+  Yan]{sundararajan2017axiomatic}
+Mukund Sundararajan, Ankur Taly, and Qiqi Yan.
+\newblock Axiomatic attribution for deep networks.
+\newblock In \emph{International Conference on Machine Learning}, 2017.
+
+\bibitem[Tatro et~al.(2020)Tatro, Chen, Das, Melnyk, Sattigeri, and
+  Lai]{tatro2020optimizing}
+Norman~J Tatro, Pin-Yu Chen, Payel Das, Igor Melnyk, Prasanna Sattigeri, and
+  Rongjie Lai.
+\newblock Optimizing mode connectivity via neuron alignment.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2020.
+
+\bibitem[Templeton et~al.(2024)Templeton, Conerly, Marcus, Lindsey, Bricken,
+  Chen, Pearce, Citro, Ameisen, Jermyn, et~al.]{templeton2024scaling}
+Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken,
+  Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Adam Jermyn, et~al.
+\newblock Scaling monosemanticity: Extracting interpretable features from
+  {Claude} 3 {Sonnet}.
+\newblock \emph{Transformer Circuits Thread}, 2024.
+
+\bibitem[Todd et~al.(2024)Todd, Li, Sharma, Mueller, Wallace, and
+  Bau]{todd2024function}
+Eric Todd, Millicent Li, Arnab~Sen Sharma, Aaron Mueller, Byron~C Wallace, and
+  David Bau.
+\newblock Function vectors in large language models.
+\newblock In \emph{International Conference on Learning Representations}, 2024.
+
+\bibitem[Turner et~al.(2023)Turner, Thiergart, Udell, Leech, Mini, and
+  MacDiarmid]{turner2023activation}
+Alexander~Matt Turner, Lisa Thiergart, David Udell, Gavin Leech, Ulisse Mini,
+  and Monte MacDiarmid.
+\newblock Activation addition: Steering language models without optimization.
+\newblock \emph{arXiv preprint arXiv:2308.10248}, 2023.
+
+\bibitem[Wang et~al.(2023)Wang, Variengien, Conmy, Shlegeris, and
+  Steinhardt]{wang2022ioi}
+Kevin Wang, Alexandre Variengien, Arthur Conmy, Buck Shlegeris, and Jacob
+  Steinhardt.
+\newblock Interpretability in the wild: a circuit for indirect object
+  identification in {GPT-2} small.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+
+\bibitem[Weiss et~al.(2021)Weiss, Goldberg, and Yahav]{weiss2021rasp}
+Gail Weiss, Yoav Goldberg, and Eran Yahav.
+\newblock Thinking like transformers.
+\newblock In \emph{International Conference on Machine Learning}, 2021.
+
+\bibitem[Williams et~al.(2021)Williams, Kunz, Kornblith, and
+  Linderman]{williams2021generalized}
+Alex~H. Williams, Erin Kunz, Simon Kornblith, and Scott Linderman.
+\newblock Generalized shape metrics on neural representations.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2021.
+
+\bibitem[Zou et~al.(2023)Zou, Phan, Chen, Campbell, Guo, Ren, Pan, Yin,
+  Mazeika, Dombrowski, et~al.]{zou2023representation}
+Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren,
+  Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, et~al.
+\newblock Representation engineering: A top-down approach to {AI} transparency.
+\newblock \emph{arXiv preprint arXiv:2310.01405}, 2023.
+
+\end{thebibliography}

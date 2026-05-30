@@ -1,0 +1,12 @@
+# Normalise line endings to LF in the repository on every platform.
+# Without this, committing on Windows can introduce CRLF and create noisy
+# cross-platform diffs (and break shell scripts on Linux/macOS CI).
+* text=auto eol=lf
+
+# Binary assets: never normalise.
+*.pdf binary
+*.png binary
+*.pt  binary
+*.npy binary
+*.npz binary
+*.gz  binary

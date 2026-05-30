@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "polymorphism-is-rotation"
+message: "If you use this code or its results, please cite the paper below."
+type: software
+authors:
+  - family-names: McCann
+    given-names: Jordan F.
+    email: jordanfmccann@gmail.com
+repository-code: "https://github.com/JordanMcCann/polymorphism-is-rotation"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: McCann
+      given-names: Jordan F.
+  title: "Polymorphism Is Rotation: Operational Mechanistic Interpretability from a Two-Layer Transformer to Pythia-70m"
+  journal: "arXiv preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2605.24577"
