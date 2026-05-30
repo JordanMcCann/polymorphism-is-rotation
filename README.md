@@ -29,6 +29,15 @@ from-scratch run that retrains every model, use `run-full` (see below).
 
 **Pick `run-fast`** — it is the verified path: a full `run-fast` → `verify` is exercised end-to-end and reproduces 6/6 (≈1 h on CPU, faster on GPU). **`run-full`** runs the same analysis after retraining every model from scratch; its individual stages are unit-tested, but the full ~14 h pipeline is not part of routine release testing, so treat it as the heavier, less-exercised tier. A divergence between `run-full` and the cached-artifact numbers is worth reporting.
 
+> **Lighter option — confirm the numbers without the 11 GB fetch.** The [`v1.0.0` release](https://github.com/JordanMcCann/polymorphism-is-rotation/releases/tag/v1.0.0) attaches `polymorphism-replication-lite.tar.gz` (~13 MB): the final trained Dyck-3 checkpoints plus every result JSON (no activation cache). Extract it into `artifacts/` and run `verify` to check all six headline claims and inspect the trained models:
+>
+> ```bash
+> mkdir -p artifacts && tar -xzf polymorphism-replication-lite.tar.gz -C artifacts
+> python -m replicate verify        # -> 6/6 claims verified
+> ```
+>
+> A full `run-fast` recompute still needs `python -m replicate fetch-artifacts` (it reads the cached Pythia activations, which aren't in the lite bundle).
+
 ## What gets reproduced
 
 The headline claims of the paper, verified by `replicate verify`:
